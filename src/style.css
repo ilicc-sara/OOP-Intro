@@ -7,5 +7,8 @@ body {
   margin: 30vh auto;
   width: 500px;
   text-align: center;
+}
+
+h1 {
   color: white;
 }
